@@ -19,4 +19,4 @@
 1. Open command prompt in the project folder and install all the dependencies by running the command: npm install
 2. Start the server by running the command: nodemon server.js
 3. Start the application by running the command: npm start
-4. Open chrome brower and go to: localhost:8000
+4. Open Chrome brower and go to: localhost:8000
