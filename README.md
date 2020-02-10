@@ -7,9 +7,9 @@
 ### Run it locally:
 
 #### Tools/Softwares needed:
-1. [Node](https://nodejs.org/en/download/ "Node.js")
-2. [Oracle Database](https://www.oracle.com/database/technologies/oracle18c-windows-180000-downloads.html "Oracle DB")
-3. [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html "Oracle SQL Developer")
+* [Node](https://nodejs.org/en/download/ "Node.js")
+* [Oracle Database](https://www.oracle.com/database/technologies/oracle18c-windows-180000-downloads.html "Oracle DB")
+* [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html "Oracle SQL Developer")
 
 #### Dataset: 
 * DonorsChoose Database available at Kaggle (https://www.kaggle.com/donorschoose/io)
