@@ -4,5 +4,4 @@
 * Built  dashboards  to  visualize  data  projections  through  charts  and  graphs. 
 * Technologies used: HTML/CSS/JavaScript, AngularJS, Chart.js, Node.js, Express and Oracle Database
 
-#### Dataset: 
-DonorsChoose Database available at Kaggle (https://www.kaggle.com/donorschoose/io)
+**Dataset:** DonorsChoose Database available at Kaggle (https://www.kaggle.com/donorschoose/io)
